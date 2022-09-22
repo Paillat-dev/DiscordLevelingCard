@@ -194,7 +194,7 @@ class RankCard:
             raise TypeError(f"avatar must be a url or a file buffer, not {type(self.background)}") 
 
         background = Image.new("RGB", (1000, 333), self.background_color)
-        background.paste(Image.new("RGB", (950, 333-50), "#2f3136"), (25, 25) )
+        background.paste(Image.new("RGB", (950, 333-50), "#36393f"), (25, 25) )
 
         avatar = self.avatar.resize((260, 260))
 
