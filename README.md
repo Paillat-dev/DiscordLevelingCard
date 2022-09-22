@@ -12,7 +12,7 @@ A library with Rank cards for your discord bot.
 
 
 `card2`
-![card](https://cdn.discordapp.com/attachments/907213435358547968/1020968412144480316/final.png)
+![card](https://cdn.discordapp.com/attachments/1021872220483637261/1022535806914674770/rank.png)
 
 
 `card3` *same as card2 but with background*
