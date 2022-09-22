@@ -30,7 +30,7 @@ pip install discordlevelingcard
 
 `for github developement version`
 ```sh
-pip install git+https://github.com/ResetXD/DiscordLevelingCard
+pip install git+https://github.com/Paillat-dev/DiscordLevelingCard
 ```
 
 ## How To Use
