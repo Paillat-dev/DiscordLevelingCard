@@ -25,7 +25,7 @@ A library with Rank cards for your discord bot.
 
 `to install run`
 ```sh
-pip install git+https://github.com/ResetXD/DiscordLevelingCard
+pip install git+https://github.com/Paillat-dev/DiscordLevelingCard
 ```
 
 ## How To Use
